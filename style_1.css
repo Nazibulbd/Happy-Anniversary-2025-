@@ -8,8 +8,7 @@
     justify-content: center;
     align-items: center;
 }
-#section{}
-#section .container{}
+
 #section .container .box{
     position: relative;
     display: flex;
